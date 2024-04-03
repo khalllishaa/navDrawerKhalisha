@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:targetApi="31">
+        <activity
+            android:name=".maknumfav.leciTea"
+            android:exported="false" />
+        <activity
+            android:name=".maknumfav.ayamCrispy"
+            android:exported="false" />
+        <activity
+            android:name=".maknumfav.hatiIkanPari"
+            android:exported="false" />
+        <activity
+            android:name=".maknumfav.mieayam"
+            android:exported="false" />
+        <activity
+            android:name=".maknumfav.rajungan"
+            android:exported="false" />
+        <activity
+            android:name=".minumanKhas.legen"
+            android:exported="false" />
+        <activity
+            android:name=".minumanKhas.soda"
+            android:exported="false" />
+        <activity
+            android:name=".minumanKhas.sirupk"
+            android:exported="false" />
+        <activity
+            android:name=".minumanKhas.kopiLelet"
+            android:exported="false" />
+        <activity
+            android:name=".makananKhas"
+            android:exported="false" />
+        <activity
+            android:name=".makananKhas.kaoya"
+            android:exported="false" />
+        <activity
+            android:name=".makananKhas.dumbeg"
+            android:exported="false" />
+        <activity
+            android:name=".makananKhas.lontongTuyuhan"
+            android:exported="false" />
+        <activity
+            android:name=".makananKhas.merica"
+            android:exported="false" />
+        <activity
+            android:name=".makananKhas.serepeh"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+    </application>
+
+</manifest>

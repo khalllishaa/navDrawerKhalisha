@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">NavDrawerKhalisha</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="makanan_ini_enak">makanan ini enak</string>
+    <string name="makanan_khas_rembang">makanan khas rembang</string>
+    <string name="minuman_khas_rembang">minuman khas rembang</string>
+    <string name="makanan_khas">makanan khas</string>
+    <string name="food_name">Food Name</string>
+    <string name="food_desc">Food Desc</string>
+    <string name="user_name">User Name</string>
+    <string name="get_start">Get Start</string>
+    <string name="enjoy">Enjoy</string>
+    <string name="eating">Eating</string>
+    <string name="all_the_delicious_food_in_rembang">All the delicious food in Rembang</string>
+    <string name="rembang_food">REMBANG FOOD</string>
+    <string name="desc">desc</string>
+    <string name="this_is_info_ga_sih">this is info ga sih</string>
+    <string name="food_descc">Food Desc</string>
+    <string name="food_namee">Food Name</string>
+    <string name="food">Food Desc</string>
+    <string name="dumbeg">Dumbeg</string>
+    <string name="makanan_khas_rembangg">Makanan Khas Rembang</string>
+    <string name="dijamin_maknyos">Dijamin maknyos!</string>
+    <string name="search">search</string>
+    <string name="serepeh">Serepeh</string>
+    <string name="click_to_see_more">click to see more</string>
+    <string name="sayur_merica">Sayur Merica</string>
+    <string name="click_to_see_moree">click to see more</string>
+    <string name="lontong_tuyuhan">Lontong Tuyuhan</string>
+    <string name="click_to_see_morre">click to see more</string>
+    <string name="kaoya">kaoya</string>
+</resources>
